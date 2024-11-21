@@ -28,6 +28,12 @@ body {
     padding: 0 3rem;
 }
 
+.image-placeholder h1{
+    font-size: 100px;
+    margin-top: 25%;
+    text-align: center;
+}
+
 /* Navigation */
 header {
     background-color: var(--darker-bg);
